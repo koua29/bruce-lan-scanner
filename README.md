@@ -50,7 +50,7 @@ Timing (`Date.now()`) separates a fast RST (port closed on a live host) from a s
 
 ## 🙏 Credits & License
 
-- Script: **koua29** (Arnaud). Runs on the excellent **[Bruce firmware](https://github.com/BruceDevices/firmware)**.
+- Script: **koua29**. Runs on the excellent **[Bruce firmware](https://github.com/BruceDevices/firmware)**.
 - Released under the **MIT License** — see [LICENSE](LICENSE).
 
 ## 🛒 Matériel / Hardware
